@@ -1,0 +1,6 @@
+cd path/to/your/project
+git init
+git remote add origin https://github.com/USERNAME/ashraf-app.git
+git add .
+git commit -m "First commit"
+git push -u origin master
